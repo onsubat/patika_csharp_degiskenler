@@ -13,3 +13,5 @@ Console.WriteLine(gunn);
 String saat1 = DateTime.Now.ToString("HH:mm");
 Console.WriteLine(saat1);
 
+//asdasdasdds
+
